@@ -521,10 +521,17 @@ Exemplos:
 ## Reflexão
 
 ### O que funcionou bem?
-O refinamento do PRD feito no Copilot ajudou bastante, pois ao saber que ele seria usado no Lovable, o próprio Copilot foi dando diversas sugestões de melhorias e direcionamentos, de forma que a solicitação fosse mais eficiente e exigisse menos interações.
 
-### O que não funcionou como o esperado?  
-Ocorreu uma pequena confusão em relação à exibição dos saldos. Apesar do cálculo estar correto, não ficava claro que, na verdade, o saldo considerava todas as movimentações, enquanto que logo abaixo eram mostradas apenas entradas e saídas do mês. Uma única interação foi suficiente para corrigir o problema e mostrar os dados de forma mais clara. 
+O refinamento do PRD feito no Copilot ajudou bastante, pois ao saber que ele seria usado no Lovable, o próprio Copilot foi sugerindo melhorias e direcionamentos para tornar a solicitação mais eficiente, reduzindo a necessidade de múltiplas interações.
 
-### O que aprendeu sobre conversar com IAs?
-Aprendi que podemos usar linguagem natural, como uma conversa com outra pessoa. Da mesma forma, quanto mais detalhadas e claras as informações e questionamentos, melhor será a qualidade das respostas e artefatos de saída.
+### O que não funcionou como o esperado?
+
+Ocorreu uma pequena confusão em relação à exibição dos saldos. Apesar do cálculo estar correto, não ficava claro que o saldo principal considerava todas as movimentações registradas, enquanto os indicadores abaixo mostravam apenas receitas e despesas do mês atual.
+
+Uma única interação adicional foi suficiente para ajustar a interface e tornar a apresentação dos dados mais clara.
+
+### O que aprendi sobre conversar com IAs?
+
+Aprendi que podemos utilizar linguagem natural, como em uma conversa com outra pessoa.
+
+Também percebi que quanto mais contexto, exemplos e detalhes fornecemos, melhor tende a ser a qualidade das respostas e dos artefatos gerados pela IA.
